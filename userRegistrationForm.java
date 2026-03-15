@@ -17,7 +17,7 @@ public class userRegistrationForm extends JFrame implements ActionListener {
     private JButton registerButton;
 
     public userRegistrationForm() {
-        setTitle("urbanstore.pk - User Registration");
+        setTitle("UrbanStore.pk - User Registration");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(400, 400);
         setLocationRelativeTo(null);

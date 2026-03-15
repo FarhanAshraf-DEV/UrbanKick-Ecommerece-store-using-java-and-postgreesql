@@ -1,4 +1,4 @@
-# urbanstore.pk – Java Desktop E-Commerce System
+# UrbanStore.pk – Java Desktop E-Commerce System
 
 [![Java](https://img.shields.io/badge/Java-JDK%208%2B-orange?logo=java)](https://www.java.com/)
 [![GUI Framework](https://img.shields.io/badge/GUI-Java%20Swing-blue)](https://docs.oracle.com/javase/tutorial/uiswing/)
@@ -6,7 +6,7 @@
 [![Database](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql)](https://www.postgresql.org/)
 [![License](https://img.shields.io/badge/License-Educational-yellow)](#license)
 
-urbanstore.pk is a **Java Swing based desktop e-commerce application** that allows users to browse products, add items to a cart, manage quantities, and checkout with a billing interface.
+UrbanStore.pk is a **Java Swing based desktop e-commerce application** that allows users to browse products, add items to a cart, manage quantities, and checkout with a billing interface.
 
 This project demonstrates the use of **Java Swing GUI, object-oriented programming, event handling, and simple cart management logic**.
 
@@ -30,7 +30,7 @@ This project demonstrates the use of **Java Swing GUI, object-oriented programmi
 
 ## ✨ Features
 
-- ✅ urbanstore.pk branded desktop interface
+- ✅ UrbanStore.pk branded desktop interface
 - ✅ Product browsing with images
 - ✅ Category filtering (Electronics, Clothing, Books, Home Decor)
 - ✅ Product search bar
@@ -116,8 +116,8 @@ UrbanStore/
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/FarhanAshraf-DEV/urbanstore.git
-cd urbanstore
+git clone https://github.com/FarhanAshraf-DEV/UrbanStore.pk.git
+cd UrbanStore
 ```
 
 #### Step 2: Install PostgreSQL
@@ -172,7 +172,7 @@ Download from [java.com](https://www.java.com/) or [oracle.com](https://www.orac
 
 1. **Open BlueJ**
 2. Click: `Project → Open Project Folder`
-3. Select the urbanstore folder
+3. Select the UrbanStore folder
 4. Wait for classes to compile
 5. Right-click on **`LoginFrame.java`** class
 6. Select: `void main(String[] args)`
@@ -182,10 +182,10 @@ Download from [java.com](https://www.java.com/) or [oracle.com](https://www.orac
 
 ```bash
 # Navigate to project directory
-cd urbanstore
+cd UrbanStore
 
 # Compile all Java files
-javac *.java
+javac src/*.java
 
 # Run the application
 java -cp src:postgresql-42.x.x.jar src.LoginFrame
@@ -194,10 +194,10 @@ java -cp src:postgresql-42.x.x.jar src.LoginFrame
 ### Using IntelliJ IDEA
 
 1. Open IntelliJ IDEA
-2. File → Open → Select urbanstore folder
+2. File → Open → Select UrbanStore folder
 3. Wait for indexing to complete
-4. Right-click on `loginframe.java`
-5. Select "Run loginframe.main()"
+4. Right-click on `LoginFrame.java`
+5. Select "Run LoginFrame.main()"
 
 ---
 

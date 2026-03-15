@@ -16,7 +16,7 @@ public class UserDashboard extends JFrame {
 
     public UserDashboard(){
 
-        setTitle("urbanstore.pk - Products");
+        setTitle("UrbanStore.pk - Products");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(1000,600);
         setLocationRelativeTo(null);
@@ -32,7 +32,7 @@ public class UserDashboard extends JFrame {
         JPanel headerPanel = new JPanel();
         headerPanel.setBackground(new Color(30,30,30));
 
-        JLabel titleLabel = new JLabel("urbanstore.pk");
+        JLabel titleLabel = new JLabel("UrbanStore.pk");
         titleLabel.setFont(new Font("Segoe UI",Font.BOLD,26));
         titleLabel.setForeground(Color.WHITE);
 

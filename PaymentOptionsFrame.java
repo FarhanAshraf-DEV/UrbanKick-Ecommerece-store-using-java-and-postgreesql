@@ -11,7 +11,7 @@ public class PaymentOptionsFrame extends JFrame {
     private JLabel addressLabel;
 
     public PaymentOptionsFrame(String products, double totalAmount) {
-        setTitle("urbanstore.pk Payment Options");
+        setTitle("UrbanStore.pk Payment Options");
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setSize(400, 400);
         setLocationRelativeTo(null);
@@ -105,7 +105,7 @@ public class PaymentOptionsFrame extends JFrame {
            String filePath = fileChooser.getSelectedFile().getPath();
             try {
                 BufferedWriter writer = new BufferedWriter(new FileWriter(filePath));
-                writer.write("urbanstore.pk\n\n");
+                writer.write("UrbanStore.pk\n\n");
                 writer.write("Products: \n");
                 writer.write(products);
                 writer.write("\n\n");

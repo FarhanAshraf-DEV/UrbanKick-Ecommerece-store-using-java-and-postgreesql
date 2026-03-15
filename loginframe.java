@@ -17,8 +17,8 @@ public class loginframe extends JFrame implements ActionListener {
     JLabel message;
 
     public loginframe() {
-        setTitle("UrbanStore.pk - Login");
-        JLabel headlineLabel = new JLabel("UrbanStore.pk Login");
+        setTitle("urbanstore.pk - Login");
+        JLabel headlineLabel = new JLabel("urbanstore.pk Login");
         headlineLabel.setBounds(110, 10, 200, 30);
         headlineLabel.setFont(new Font("Arial", Font.BOLD, 18));
         add(headlineLabel);

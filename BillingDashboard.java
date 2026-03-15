@@ -6,7 +6,7 @@ public class BillingDashboard extends JFrame {
     private JLabel totalLabel;
 
     public BillingDashboard(String products, double totalAmount) {
-        setTitle("UrbanStore.pk Billing");
+        setTitle("urbanstore.pk Billing");
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setSize(400, 400);
         setLocationRelativeTo(null);

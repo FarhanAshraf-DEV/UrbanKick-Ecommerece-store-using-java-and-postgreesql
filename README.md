@@ -93,8 +93,7 @@ UrbanStore/
 │   ├── UserDashboard.java
 │   ├── BillingDashboard.java
 │   ├── LoginFrame.java
-│   └── ProductManager.java
-│
+│   └── other files here....│
 ├── README.md
 └── LICENSE
 ```

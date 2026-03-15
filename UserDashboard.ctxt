@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=UserDashboard
+comment1.params=
+comment1.target=UserDashboard()
+comment2.params=productsPanel\ category
+comment2.target=void\ updateProductPanel(javax.swing.JPanel,\ java.lang.String)
+comment3.params=
+comment3.target=void\ resetCart()
+comment4.params=
+comment4.target=void\ updateCart()
+comment5.params=productsPanel\ product
+comment5.target=void\ addProductPanel(javax.swing.JPanel,\ UserDashboard.Product)
+comment6.params=e
+comment6.target=void\ mouseEntered(java.awt.event.MouseEvent)
+comment7.params=e
+comment7.target=void\ mouseExited(java.awt.event.MouseEvent)
+comment8.params=
+comment8.target=void\ showBillingDashboard()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

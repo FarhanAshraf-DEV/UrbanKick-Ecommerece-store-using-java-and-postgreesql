@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BillingDashboard
+comment1.params=products\ totalAmount
+comment1.target=BillingDashboard(java.lang.String,\ double)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

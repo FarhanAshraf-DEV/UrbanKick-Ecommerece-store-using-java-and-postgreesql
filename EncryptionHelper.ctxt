@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=EncryptionHelper
+comment1.params=password
+comment1.target=java.lang.String\ getEncryptedPassword(java.lang.String)
+numComments=2

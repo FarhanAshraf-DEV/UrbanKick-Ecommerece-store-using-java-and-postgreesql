@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=loginframe
+comment1.params=
+comment1.target=loginframe()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=username\ password
+comment4.target=boolean\ login(java.lang.String,\ java.lang.String)
+numComments=5
